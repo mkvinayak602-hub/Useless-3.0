@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Scroll Prison",
+  "version": "1.0",
+  "description": "A completely useless extension that prevents you from scrolling up.",
+  "permissions": [],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
