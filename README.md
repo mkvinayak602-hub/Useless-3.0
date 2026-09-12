@@ -2,96 +2,58 @@
 
 
 
-# [Project Name] 🎯
+# [Scroll Prison] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [ANCD]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [M K Vinayak] - [Carmel College of Engineering]
+- Member 2: [Anuarth P K] - [Carmel College of Engineering]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Scroll Prison is a useless chrome extension that automatically scrolls webpages downwards. If we try to scroll up, it forces you back down]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[Solving the problem of people trying to scroll back up when they should just keep going down]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[Forcing users to move in only one direction]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [JavaScript, HTML, CSS, Chrome Exstention APIs]
+- [None]
+- [None]
+- [Chrome Extension Developer Mode]
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- [None]
+- [None]
+- [None]
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+[None]
 
 # Run
-[commands]
+[None]
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
+<img width="528" height="310" alt="WhatsApp Image 2026-09-12 at 9 29 54 AM" src="https://github.com/user-attachments/assets/8a73d1b0-f1a0-4652-b72d-0701e818710f" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-09-12 at 9 30 50 AM" src="https://github.com/user-attachments/assets/bffb13d1-847e-4ece-a9de-07122e6de2af" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-09-12 at 9 31 21 AM" src="https://github.com/user-attachments/assets/e6d6a16b-2783-4718-bb7f-67ed3a231ad2" />
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://videotourl.com/videos/1789188530795-c9e0e27d-6471-427e-bafb-a50488a59da0.mp4
 
-# Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
